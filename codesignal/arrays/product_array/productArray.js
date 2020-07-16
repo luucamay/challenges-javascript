@@ -1,0 +1,3 @@
+function adjacentElementsProduct(inputArray) {
+
+}
